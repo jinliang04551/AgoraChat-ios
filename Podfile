@@ -21,13 +21,10 @@ end
     pod 'WHToast'
     pod 'FMDB'
     pod 'Agora_Chat_iOS'
-<<<<<<< Updated upstream
-    pod 'chat-uikit',  :path => "../AgoraChatKit"
 
-=======
     # pod 'chat-uikit'
     pod 'chat-uikit', :path => "../AgoraChat-UIKit-ios"
->>>>>>> Stashed changes
+
 end
 
 
